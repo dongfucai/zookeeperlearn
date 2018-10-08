@@ -1,4 +1,4 @@
-package meituan.easy.dong;
+package com.easy.dong;
 import java.io.IOException;
 import java.util.Collections;
 import java.util.List;

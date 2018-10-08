@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>meituan</groupId>
+    <groupId>zookeeper</groupId>
     <artifactId>zookkeeperlearn</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -22,11 +22,6 @@
             <version>1.8.6.RELEASE</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.x9710.common</groupId>
-            <artifactId>redis-util</artifactId>
-            <version>1.0</version>
-        </dependency>
 
     </dependencies>
 

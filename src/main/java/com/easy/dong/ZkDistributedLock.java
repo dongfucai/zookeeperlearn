@@ -1,5 +1,5 @@
 
-package meituan.easy.dong;
+package com.easy.dong;
 import java.util.Collections;
 import java.util.List;
 

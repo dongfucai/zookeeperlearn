@@ -1,4 +1,4 @@
-package meituan.easy.dong;
+package com.easy.dong;
 
 /**
  * @Package Name : ${PACKAG_NAME}
